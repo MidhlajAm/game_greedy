@@ -20,7 +20,7 @@ Game Greedy is a beautifully crafted **UI-only** Flutter app for game enthusiast
 ---
 
 ## 🖥️ **Screenshots**  
-![Game Details](https://via.placeholder.com/300x600?text=Add+Screenshot+Here) |  
+![Game Details](https://raw.githubusercontent.com/MidhlajAm/my-projrct-assets/refs/heads/main/Screenshot_20250123_195130.png?token=GHSAT0AAAAAAC5ZKEV27ICNPEOYGWR6YOMOZ4SL64Q) |  
 
 ---
 
